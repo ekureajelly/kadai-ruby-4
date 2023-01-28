@@ -7,8 +7,3 @@ end
 post '/' do
   erb :complete
 end
-
-　<%= name %>
-                　<%= mail %>
-                　<%= tel %>
-                　<%= content %>
